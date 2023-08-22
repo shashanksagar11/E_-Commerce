@@ -1,0 +1,18 @@
+.Main-Navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: chartreuse;
+    align-items: center;    
+}
+.logo {
+ padding: 20px;
+     
+}
+.first-Navbar a{
+    text-decoration: none;
+    /* margin-right: 20px; */
+    padding: 10px;
+
+    
+    
+}
