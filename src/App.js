@@ -4,6 +4,7 @@ import Home from "./Component/HEADER/HOME/Home";
 import  Product from "./Component/HEADER/PRODUCT/Product";
 import Contact from "./Component/HEADER/CONTACT/Contact";
 import About from "./Component/HEADER/ABOUT/About";
+import Footer from "./Component/Footer/Footer";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           {/* <Route path='/error' element={<Error/>}/> */}
         </Routes>
       </BrowserRouter>
+      <Footer/>
     </div>
   );
 }

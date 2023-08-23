@@ -1,4 +1,16 @@
 .footer {
     background-color: aqua;
+    height:300px;
+
+}
+.footer-2{
+    display:flex;
+    position:relative;
+    justify-content: center;
+    top:-300px;
+}
+.footer-3{
+    
+    position:absolute;
 
 }

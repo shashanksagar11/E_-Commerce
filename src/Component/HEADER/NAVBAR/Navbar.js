@@ -28,7 +28,7 @@ const Navbar = () => {
             <a href=''>ProductList</a>
             <a href=''>Contact</a>
             <a href=''>SinglePage</a> */}
-        <a href="">
+        <a href=""className="root">
           <PiShoppingCart />
         </a>
       </div>
